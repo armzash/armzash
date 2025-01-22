@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Hi, I'm Amirul Ashraf <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
 <h3 align="left">Student of Bachelor Science Computer (Software Engineering) 🎓 </h3>
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB5cTFvdmk4YWh3ZTczN2Q0ZWNqdGU3djJxbXR3cXJ4dXN1ZWdrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mFXl22xsJfwpWyxl8d/giphy.gif"  />
+<img align="right" height="200" src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTM2bzkyMTdkeTZuZmgycXFjbm02cWtnczR4dDd0b3R0Nmc1MGlrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cIn5fTcjnKhStIeAef/giphy.gif)  />
 
 - Based in **Georgetown, Pulau Pinang, Malaysia** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/New%20Moon%20Face.png" alt="New Moon Face" width="25" height="25" />
 - I’m currently working on **RMAF** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="25" height="25" />
